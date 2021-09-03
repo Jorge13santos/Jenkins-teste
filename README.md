@@ -1,9 +1,9 @@
-# Jenkins Getting Started
+# Jenkins teste
 
 ## 2nd Edition Examples **[CURRENT EDITION]**
 
 - Course repositories:
-  - [2nd Edition INDEX / COURSE OVERVIEW repo](https://github.com/g0t4/course-jenkins-getting-started). 
+  - [2nd Edition INDEX / COURSE OVERVIEW repo](https://github.com/jorge13santos/Jenkins-teste). 
     - I recommend cloning this repo and/or clicking links provided! 
     - Each edition of the course has its own set of repos.
     - **AVOID GOOGLING** or **GITHUBOOGLING** (is that a word? :smiley:) and instead follow these links 
@@ -21,12 +21,12 @@ See the [docs](docs) folder for various additional notes I've left for you. Quit
 ## FAQ
 
 - **I am having an issue with building code in the `jenkins2-...` repository, how do I fix that**
-  - If you are watching the updated / 2nd Edition course (most likely). Use the updated repos too ([see above](https://github.com/g0t4/course-jenkins-getting-started/blob/master/README.md#2nd-edition-examples-current-edition)).
+  - If you are watching the updated / 2nd Edition course (most likely). Use the updated repos too ([see above](https://github.com/jorge13santos/Jenkins-teste)).
   - If you want a challenge or are watching the 1st edition, try to adapt the 1st edition repos to work with the 2nd edition examples! A great learning opportunity!
 
 ## 1st Edition 
 
-- The 2nd edition is an update to my original (1st edition) [`Getting Started with Jenkins 2`](https://www.pluralsight.com/courses/jenkins-2-getting-started) course.
+- The 2nd edition is an update to my original (1st edition) [`Getting Started with Jenkins 2`](https://jenkins-2-getting-started) course.
   - You can follow this link to access the original course which is longer and has some content that wasn't included in the update given that we wanted to shrink the duration for placement into a jenkins learning path. And of course include relevant new features where applicable.
   - FYI the vast majority of content in the 1st edition is still relevant in the latest versions of Jenkins!
 - In the 2nd edition update, the `2` is dropped from the course title even though I'm still covering the latest version of Jenkins which is still `2`.
